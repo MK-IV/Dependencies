@@ -1,0 +1,23 @@
+<pack>
+/name="Hue Light Controller"
+url="http://mkiv.netne.net/Admin/Addon%20Packs/hue.zip"
+img="http://mkiv.netne.net/Admin/Pictures/hue.jpg"
+fanart="http://mkiv.netne.net/Admin/Pictures/hue.jpg"
+description="Hue light controller"
+
+/name="Python Requests Module"
+url="http://mkiv.netne.net/Admin/Addon%20Packs/script.module.requests-2.9.1.zip"
+img="http://mkiv.netne.net/Admin/Pictures/"
+fanart="http://mkiv.netne.net/Admin/Pictures/"
+description="Needed for Hue light controller"
+
+/name="Ares Wizard"
+url="http://mkiv.netne.net/Admin/Addon%20Packs/ares.zip"
+img="http://mkiv.netne.net/Admin/Pictures/ares.jpg"
+fanart="http://mkiv.netne.net/Admin/Pictures/ares.jpg"
+description="Hue light controller"
+
+
+
+
+</pack>

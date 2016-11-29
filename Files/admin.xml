@@ -1,0 +1,15 @@
+<admin>
+
+/name="SNES Games"
+url="https://archive.org/download/MarkFourG/BETA.zip"
+img="http://mkiv.netne.net/Admin/Pictures/snesimage.jpg"
+fanart="http://mkiv.netne.net/Admin/Pictures/nintendofanart.png"
+description="SNES lot"
+
+/name="SEGA Games"
+url="https://archive.org/download/MarkFourG/ALPHA.zip"
+img="http://mkiv.netne.net/Admin/Pictures/segaimage.jpg"
+fanart="http://mkiv.netne.net/Admin/Pictures/sonicfanart.png"
+description="Sega Genesis lot"
+
+</admin>
