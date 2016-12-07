@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mkiv" name="MK-IV Repository" version="1.2" provider-name="CamC">
+	<extension point="xbmc.addon.repository" name="MK-IV Repository">
+		<info compressed="false">https://github.com/MK-IV/Dependencies/raw/master/plugins/addons.xml</info>
+		<checksum>https://github.com/MK-IV/Dependencies/raw/master/plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/MK-IV/Dependencies/raw/master/plugins</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>MK-IV</summary>
+		<description>MK-IV Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
